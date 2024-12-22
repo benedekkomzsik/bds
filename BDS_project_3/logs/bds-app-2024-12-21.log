@@ -1,0 +1,281 @@
+2024-12-21 12:56:43 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 12:56:43 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:09:22 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:09:22 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:22:20 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:22:20 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:40:44 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:40:44 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:49:45 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:49:45 ERROR o.b.feec.bds.config.DataSourceConfig - Configuration of the datasource was not successful.
+java.lang.NullPointerException: inStream parameter is null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:246)
+	at java.base/java.util.Properties.load(Properties.java:409)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:50)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 13:56:26 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 13:56:26 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 13:56:26 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:02:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:02:49 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:02:49 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:08:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:08:46 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:08:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:11:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:11:09 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:11:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:11:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:11:49 ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Exception during pool initialization.
+org.postgresql.util.PSQLException: FATAL: password authentication failed for user "bds-app"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:693)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:203)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:258)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:263)
+	at org.postgresql.Driver.makeConnection(Driver.java:443)
+	at org.postgresql.Driver.connect(Driver.java:297)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:54)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+2024-12-21 14:11:49 ERROR o.b.feec.bds.config.DataSourceConfig - Could not connect to the database.
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: FATAL: password authentication failed for user "bds-app"
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:596)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:582)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:54)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+Caused by: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "bds-app"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:693)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:203)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:258)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:263)
+	at org.postgresql.Driver.makeConnection(Driver.java:443)
+	at org.postgresql.Driver.connect(Driver.java:297)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	... 5 common frames omitted
+2024-12-21 14:11:49 ERROR o.b.feec.bds.config.DataSourceConfig - Could not connect to the database.
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: FATAL: password authentication failed for user "bds-app"
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:596)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:582)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:100)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:54)
+	at org.but.feec.bds.config.DataSourceConfig.initializeDataSource(DataSourceConfig.java:31)
+	at org.but.feec.bds.Main.main(Main.java:7)
+Caused by: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "bds-app"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:693)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:203)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:258)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:263)
+	at org.postgresql.Driver.makeConnection(Driver.java:443)
+	at org.postgresql.Driver.connect(Driver.java:297)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:359)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:470)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	... 5 common frames omitted
+2024-12-21 14:12:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:12:18 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:12:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:20:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:20:18 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:20:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:22:43 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:22:44 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:22:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:35:05 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:35:05 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:35:05 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:37:16 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:37:16 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:37:16 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:37:24 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:37:24 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:45:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:45:45 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:45:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:45:52 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:45:52 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:52:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 14:52:59 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 14:52:59 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 14:53:06 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:53:06 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:53:56 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 14:53:56 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 15:02:38 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 15:02:38 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:20:29 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:20:30 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:20:30 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 16:21:12 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:21:12 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:24:08 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:24:08 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:24:08 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 16:24:14 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:24:14 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:37:15 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:37:15 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:37:15 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 16:37:36 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:37:36 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:50:20 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:50:20 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:50:20 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 16:50:27 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:50:27 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 16:52:11 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:52:12 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:52:12 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 16:58:20 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 16:58:20 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 16:58:20 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 17:06:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 17:06:39 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 17:06:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 17:14:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 17:14:02 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 17:14:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 17:21:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 17:21:09 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 17:21:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 17:27:57 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 17:27:57 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 17:27:57 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:22:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:22:47 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:22:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:32:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:32:58 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:32:58 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:35:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:35:47 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:35:47 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:40:37 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:40:38 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:40:38 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:44:56 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:44:56 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:44:56 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 18:54:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 18:54:46 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 18:54:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 19:10:01 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 19:10:02 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5386659f
+2024-12-21 19:10:02 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 19:25:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 19:25:21 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 19:25:21 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 19:27:42 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 19:27:42 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 19:27:42 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 19:27:48 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 19:27:48 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 19:55:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 19:55:44 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 19:55:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:06:50 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:06:50 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:06:50 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:06:56 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 21:06:56 INFO  o.b.f.b.c.CreateAccountController - PersonCreateController initialized
+2024-12-21 21:08:06 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:08:06 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:08:06 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:17:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:17:39 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:17:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:22:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:22:18 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:22:18 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:26:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:26:44 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:26:44 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:31:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:31:46 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:31:46 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:36:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:36:31 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:36:31 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:39:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:39:14 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:39:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:44:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:44:09 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:44:09 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-21 21:47:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-12-21 21:47:39 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@15aab8c6
+2024-12-21 21:47:39 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

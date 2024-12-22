@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="300" prefWidth="600" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.but.feec.bds.controllers.AccountController">
+
+    <Label style="-fx-font-size: 24px; -fx-font-weight: bold;" text="User Profile" />
+
+    <HBox spacing="10">
+        <VBox spacing="10">
+            <Label fx:id="firstNameLabel" style="-fx-font-size: 18px;" text="First Name:" />
+            <Label fx:id="lastNameLabel" style="-fx-font-size: 18px;" text="Last Name:" />
+            <Label fx:id="emailLabel" style="-fx-font-size: 18px;" text="Email:" />
+            <Label fx:id="telephoneLabel" style="-fx-font-size: 18px;" text="Telephone:" />
+            <Label fx:id="postalCodeLabel" style="-fx-font-size: 18px;" text="Postal Code:" />
+            <Label fx:id="streetLabel" style="-fx-font-size: 18px;" text="Street:" />
+            <Label fx:id="houseNumLabel" style="-fx-font-size: 18px;" text="House Num:" />
+        </VBox>
+
+        <VBox spacing="10">
+            <Button fx:id="saveButton" onAction="#insertData" text="Insert Data" />
+            <Button fx:id="cartButton" onAction="#showCart" text="Order History" />
+            <Button fx:id="editButton" onAction="#editData" text="edit" />
+        </VBox>
+    </HBox>
+
+</VBox>
